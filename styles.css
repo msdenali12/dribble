@@ -1,0 +1,17 @@
+body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+h1 {
+    font-weight: bold;
+    padding:10px;
+    padding-right: 10px;
+}
+img{
+   
+}
+.button-group {
+    background-color: red;
+}
